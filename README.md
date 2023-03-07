@@ -2,7 +2,6 @@
 
 - Institute: Monash University, Clayton
 
-
 - Team: Team_Amigos
 
 # Table of Contents
@@ -74,11 +73,11 @@ Technology used :
 - *Latitude and Longitude* : Geometrical Dimentions
 
 # Credits  :
-- Author1: "Pranali Angne"
+- Author1 (Section 2.1) : "Pranali Angne"
 
-- Author2: "Nishtha Arora"
+- Author2 (Section 2.2, 3): "Nishtha Arora"
 
-- Author3: "Raunak Bhivpathaki"
+- Author3 (Section 1, Section 2 intro, Section 4 and aesthetics): "Raunak Bhivpathaki"
 
 
 # License used: 

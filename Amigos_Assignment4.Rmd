@@ -47,6 +47,7 @@ knitr::include_graphics("images/CTV.jpg")
 \section*{Q1, Part A}
 
 ``` {r Loading-libraries, echo= FALSE, warning= FALSE, message = FALSE}
+library(prettydoc)
 library(tidyverse)
 library(lubridate)
 library(ggplot2)
