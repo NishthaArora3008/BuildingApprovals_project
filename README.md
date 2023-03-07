@@ -73,9 +73,9 @@ Technology used :
 - *Latitude and Longitude* : Geometrical Dimentions
 
 # Credits  :
-- Author1 (Section 2.1) : "Pranali Angne"
+- Author1 (Section 2.2) : "Pranali Angne"
 
-- Author2 (Section 2.2, 3): "Nishtha Arora"
+- Author2 (Section 2.1, 3): "Nishtha Arora"
 
 - Author3 (Section 1, Section 2 intro, Section 4 and aesthetics): "Raunak Bhivpathaki"
 
